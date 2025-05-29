@@ -1,4 +1,3 @@
-// Service.h
 #ifndef SERVICE_H
 #define SERVICE_H
 
