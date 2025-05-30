@@ -1,5 +1,5 @@
 # ClassWork4_Polymorphism
 
 
-![Diagrama sin título drawio (4)](https://github.com/user-attachments/assets/1a853a97-f0ff-4dad-bb25-ee6a3bc8947a)
+![Diagrama sin título drawio (5)](https://github.com/user-attachments/assets/c2555511-78d0-4cc3-ad4b-02541233bc8f)
 
