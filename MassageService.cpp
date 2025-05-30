@@ -48,4 +48,3 @@ void MassageService::displaySummary(bool returningClient)
         << "====================================\n";
 }
 
-}
