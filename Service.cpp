@@ -23,7 +23,7 @@ void Service::describeService() {
 double Service::calculateFinalPrice(bool returningClient) {
     double price = calculateFinalPrice();
     if (returningClient) {
-        price *= 0.90;  // 10% discount
+        price *= 0.90;  
     }
     return price;
 }
